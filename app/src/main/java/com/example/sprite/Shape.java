@@ -11,7 +11,7 @@ public class Shape {
         y = this.y;
 
     }
-
+    String color = "blue";
 
 
 }
