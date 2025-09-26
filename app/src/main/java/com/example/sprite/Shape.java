@@ -5,8 +5,7 @@ public class Shape {
     public int y;
 
     //add colors here?
-    String color = "blue";
-
+    String color = "orange";
     public Shape(int x, int y){
         this.x = x;
         this.y = y;
